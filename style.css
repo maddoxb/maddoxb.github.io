@@ -1,0 +1,29 @@
+body {
+  background: lightblue;
+}
+p {
+  color: blueviolet;
+}
+h1 {
+  font-weight: bolder;
+  color: blueviolet;
+  text-align: center;
+  text-decoration:underline
+}
+h2 {
+  color: blueviolet;
+}
+h3 {
+  color: blueviolet
+}
+
+img {
+  float:none;
+  border-style: solid;
+  border-color: aqua;
+    width:250px;
+}
+
+a {
+    font-family: cursive
+}
