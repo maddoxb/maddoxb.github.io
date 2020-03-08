@@ -2,19 +2,19 @@ body {
   background: lightblue;
 }
 p {
-  color: blueviolet;
+  color: black;
 }
 h1 {
   font-weight: bolder;
-  color: blueviolet;
+  color: black;
   text-align: center;
   text-decoration:underline
 }
 h2 {
-  color: blueviolet;
+  color: black;
 }
 h3 {
-  color: blueviolet
+  color: black
 }
 
 img {
