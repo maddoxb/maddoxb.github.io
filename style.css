@@ -3,22 +3,29 @@ body {
 }
 p {
   color: black;
+  font-family: monospace;
+  text-align: center;
 }
 h1 {
   font-weight: bolder;
   color: black;
   text-align: center;
-  text-decoration:underline
+  text-decoration:underline;
+  font-family: monospace
 }
 h2 {
   color: black;
+  font-family: monospace;
+  text-align: center  
 }
 h3 {
-  color: black
+  color: black;
+  font-family: monospace;
+  text-align: center;
 }
 
 img {
-  float:none;
+  float:center;
   border-style: solid;
   border-color: aqua;
     width:350px;
