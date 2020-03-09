@@ -36,3 +36,7 @@ a {
     font-family: cursive;
   font-size: 17px
 }
+.rotate {
+  -webkit-transform: rotate(20deg);
+  transform: rotate(20deg);
+}
