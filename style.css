@@ -40,3 +40,11 @@ a {
   -webkit-transform: rotate(180deg);
   transform: rotate(180deg);
 }
+.rotate2 {
+  -webkit-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+.rotate {
+  -webkit-transform: rotate(270deg);
+  transform: rotate(270deg);
+}
